@@ -31,6 +31,7 @@ SATURATED_ANGLES = (
     "shower", "i'm fine", "notification", "main character",
     "unread email", "coping mechanism", "phantom vibration",
     "inner voice", "you are the bug", "monday",
+    "prompt dependency",
 )
 
 
